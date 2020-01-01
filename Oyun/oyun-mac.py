@@ -1,7 +1,6 @@
 import turtle
 import random
 import math
-import subprocess
 
 
 #create the ints.
