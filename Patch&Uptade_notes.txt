@@ -1,0 +1,8 @@
+26.12.2019
+The upload of the game(for windows)
+
+27.12.2019
+The upload of the game for linux and mac(silence beta)
+
+01.01.2020
+I added new version for linux and mac which include the change of the size of scoreboard and some piksel settings.
