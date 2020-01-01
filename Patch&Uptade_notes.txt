@@ -5,4 +5,4 @@ The upload of the game(for windows)
 The upload of the game for linux and mac(silence beta)
 
 01.01.2020
-I added new version for linux and mac which include the change of the size of scoreboard and some pixel settings.
+I've added new version for linux and mac which includes the change of the size of scoreboard and some pixel settings.
