@@ -6,3 +6,6 @@ The upload of the game for linux and mac(silence beta)
 
 01.01.2020
 I've added new version for linux and mac which includes the change of the size of scoreboard and some pixel settings.
+
+01.01.2020
+Fixed the bug that caused the exit in the corners.
