@@ -9,3 +9,6 @@ I've added new version for linux and mac which includes the change of the size o
 
 01.01.2020
 Fixed the bug that caused the exit in the corners.
+
+02.02.2020
+The upload of the game for linux and mac(full version)
