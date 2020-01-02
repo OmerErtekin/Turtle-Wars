@@ -287,7 +287,7 @@ while (secenek==2):
             if(b>3 and b<5):
                 if(boyut1>0.50):
                     boyut1-=0.25
-                    os.system(piksel-)
+                    os.system(pikseleksi)
                     player1.turtlesize(boyut1)
             
             scoreboardp2.clear()
