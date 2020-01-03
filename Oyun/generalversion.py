@@ -128,22 +128,34 @@ while (secenek==1):
     if player2.xcor()>345 or player2.xcor()<-345:
         player2.right(179)
         system.sound(sekme)
-    if player1.xcor()>349 and player1.xcor()<-349:
-        player1.right(179)
-        system.sound(sekme)
-    if player2.xcor()>349 and player2.xcor()<-349:
-        player2.right(179)
-        system.sound(sekme)
     if player1.ycor()>345 or player1.ycor()<-345:
         player1.right(179)
         system.sound(sekme)
     if player2.ycor()>345 or player2.ycor()<-345:
         player2.right(179)
         system.sound(sekme)
-    if player1.ycor()>349 and player1.ycor()<-349:
+    if player1.xcor()>349 and player1.ycor()>349:
         player1.right(179)
         system.sound(sekme)
-    if player2.ycor()>349 and player2.ycor()<-349:
+    if player1.xcor()>349 and player1.xcor()<-349:
+        player1.right(179)
+        system.sound(sekme)
+    if player1.xcor()<-349 and player1.ycor()>349:
+        player1.right(179)
+        system.sound(sekme)
+    if player1.xcor()<-349 and player1.ycor()<-349:
+        player1.right(179)
+        system.sound(sekme)
+    if player2.xcor()>349 and player2.ycor()>349:
+        player2.right(179)
+        system.sound(sekme)
+    if player2.xcor()>349 and player2.xcor()<-349:
+        player2.right(179)
+        system.sound(sekme)
+    if player2.xcor()<-349 and player2.ycor()>349:
+        player2.right(179)
+        system.sound(sekme)
+    if player2.xcor()<-349 and player2.ycor()<-349:
         player2.right(179)
         system.sound(sekme)
         
@@ -232,22 +244,34 @@ while (secenek==2):
     if player2.xcor()>345 or player2.xcor()<-345:
         player2.right(179)
         system.sound(sekme)
-    if player1.xcor()>349 and player1.xcor()<-349:
-        player1.right(179)
-        system.sound(sekme)
-    if player2.xcor()>349 and player2.xcor()<-349:
-        player2.right(179)
-        system.sound(sekme)
     if player1.ycor()>345 or player1.ycor()<-345:
         player1.right(179)
         system.sound(sekme)
     if player2.ycor()>345 or player2.ycor()<-345:
         player2.right(179)
         system.sound(sekme)
-    if player1.ycor()>349 and player1.ycor()<-349:
+    if player1.xcor()>349 and player1.ycor()>349:
         player1.right(179)
         system.sound(sekme)
-    if player2.ycor()>349 and player2.ycor()<-349:
+    if player1.xcor()>349 and player1.xcor()<-349:
+        player1.right(179)
+        system.sound(sekme)
+    if player1.xcor()<-349 and player1.ycor()>349:
+        player1.right(179)
+        system.sound(sekme)
+    if player1.xcor()<-349 and player1.ycor()<-349:
+        player1.right(179)
+        system.sound(sekme)
+    if player2.xcor()>349 and player2.ycor()>349:
+        player2.right(179)
+        system.sound(sekme)
+    if player2.xcor()>349 and player2.xcor()<-349:
+        player2.right(179)
+        system.sound(sekme)
+    if player2.xcor()<-349 and player2.ycor()>349:
+        player2.right(179)
+        system.sound(sekme)
+    if player2.xcor()<-349 and player2.ycor()<-349:
         player2.right(179)
         system.sound(sekme)
     #yeme göre pozisyon
