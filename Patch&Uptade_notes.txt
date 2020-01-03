@@ -10,5 +10,8 @@ I've added new version for linux and mac which includes the change of the size o
 01.01.2020
 Fixed the bug that caused the exit in the corners.
 
-02.02.2020
+02.01.2020
 The upload of the game for linux and mac(full version)
+
+03.01.2020
+The uplaod of the general version of the game with voices(thanks to serkan(serkanshnn) again!
