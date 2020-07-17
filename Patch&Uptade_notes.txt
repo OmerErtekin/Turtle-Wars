@@ -14,4 +14,4 @@ Fixed the bug that caused the exit in the corners.
 The upload of the game for linux and mac(full version)
 
 03.01.2020
-The uplaod of the general version of the game with voices(thanks to serkan(serkanshnn) again!
+The uplaod of the general version of the game with voices(thanks to serkan(@serkanshnn) again!)
